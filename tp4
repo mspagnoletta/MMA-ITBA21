@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>2do Debate</title>
+</head>
+<body>
+    <h1> SVGs RAWGraphs</h1>
+
+    <object data="Beeswarm.svg" type="image/svg+xml">
+    </object>
+
+    <object data="Horizon.svg" type="image/svg+xml">
+    </object>
+
+    <object data="Streamgraph.svg" type="image/svg+xml">
+    </object>
